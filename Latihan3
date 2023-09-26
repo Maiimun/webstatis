@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head type="teks">
+    <link rel="icon" type="image/favicon" href="/images/favicon.ico">
+    <title> Gunung Slamet </title>
+    <!-- bagian style -->
+    <style>
+        body {
+            background: linear-gradient(to right, #44a08d, #093637);
+            color:beige;
+            font-family: Arial, sans-serif;
+            font-size: 60px;
+            
+        }
+        .container {
+            text-align: center;
+            padding: 20px;
+        }
+        h1 {
+            font-size: 36px;
+            background-color :rgb(92, 128, 182);
+        }
+        .info {
+            text-align: justify;
+            font-size: 25px;
+            margin: 30px;
+        }
+</style>
+</head>
+<body>
+    <div class="container">
+        <h1 >Gunung Slamet</h1>
+        <div class="info">
+            <p><img src= "images/slamet.jpg" style="width:350px; height: 200px;"> 
+                Gunung Slamet adalah gung berapi kerucut tipe A yang berada di Jawa Tengah, Indonesia. Gunung Slamet memiliki ketinggian 3.432 mdpl dan terletak di antara 5 kabupaten.  Gunung Slamet merupakan gunung dengan suhu rata-rata paling dingin di pulau Jawa serta salah satu daerah dengan curah hujan tahunan paling tinggi di Indonesia yaitu 8.134,00 milimeter (mm) per tahun. Gunung Slamet adalah gunung tertinggi di Jawa Tengah dan gunung tertinggi kedua di pulau Jawa, setelah gunung Semeru. Gunung ini cukup populer sebagai tujuan pendakian meskipun medannya dikenal sulit dan dikenal memiliki suhu yang sangat dingin serta basah.</p>
+        <h1>Geologi</h1>
+            <ol> 
+                     <img src= "images/gunung.jpg" style="width:350px; height: 200px;" > 
+                    <p>Sebagaimana gunung api lainnya di Pulau Jawa, Gunung Slamet terbentuk akibat subduksi Lempeng Indo-Australia pada Lempeng Eurasia di selatan Pulau Jawa. Retakan pada lempeng membuka jalur lava ke permukaan. Catatan letusan diketahui sejak abad ke-19. Gunung ini aktif dan sering mengalami erupsi skala kecil. Aktivitas terakhir adalah pada bulan Mei 2009 dan sampai Juni masih terus mengeluarkan lava pijar. Pada tahun 1999 Gunung Slamet tercatat pernah menyemburkan lavanya. Maret 2014 Gunung Slamet menunjukkan aktifitas dan statusnya menjadi Waspada. Berdasarkan data PVMBG, aktivitas vukanik Gunung Slamet masih fluktuatif. Setelah sempat terjadi gempa letusan hingga 171 kali pada Jumat 14 Maret 2014 dari pukul 00.00-12.00 WIB, pada durasi waktu yang sama, tercatat sebanyak 57 kali gempa letusan. Tercatat pula 51 kali embusan. Pemantauan visual, embusan asap putih tebal masih keluar dari kawah gunung ke arah timur hingga setinggi 1 km.</p>
+
+</body>
